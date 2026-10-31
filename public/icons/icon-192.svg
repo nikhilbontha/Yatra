@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="192" height="192">
+  <rect width="512" height="512" rx="112" fill="#174b3e"/>
+  <circle cx="256" cy="256" r="190" fill="#205a4b" stroke="#c18b3b" stroke-width="8"/>
+  <path d="M256 120 L276 185 L345 185 L290 226 L310 292 L256 252 L202 292 L222 226 L167 185 L236 185 Z" fill="#d97706" opacity="0.3"/>
+  <path d="M256 130 C220 130 196 170 196 220 L196 280 L316 280 L316 220 C316 170 292 130 256 130 Z" fill="#f6f7f3"/>
+  <rect x="226" y="190" width="60" height="7" rx="3.5" fill="#c18b3b"/>
+  <rect x="226" y="204" width="60" height="7" rx="3.5" fill="#c18b3b"/>
+  <rect x="226" y="218" width="60" height="7" rx="3.5" fill="#c18b3b"/>
+  <circle cx="256" cy="207.5" r="5" fill="#b94a48"/>
+  <path d="M166 280 L346 280 C360 280 372 290 372 305 L372 320 L140 320 L140 305 C140 290 152 280 166 280 Z" fill="#f6f7f3"/>
+  <rect x="180" y="320" width="152" height="30" rx="8" fill="#e2e8e2"/>
+  <text x="256" y="420" text-anchor="middle" fill="#d9e8df" font-family="system-ui, sans-serif" font-weight="700" font-size="34" letter-spacing="6">YATRA</text>
+</svg>
